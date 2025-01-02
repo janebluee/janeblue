@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Charles Lienhart Schwab, also known as southclown</h1>
+<h1 align="center">Hi 👋, I'm Charles Lienhart Schwab, also known as janeblue</h1>
 <h3 align="center">Experienced with a wide variety of creative tools and technical skills, I like to solve design, storytelling and technical problems in digital media. cheers guys</h3>
 
 <h3 align="left">Connect with me:</h3>
