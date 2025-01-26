@@ -1,19 +1,12 @@
-<h1 align="center">hey i'm Charles Lienhart also known as bluffblue everywhere👋</h1>
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=bluffblue&theme=dark&hide_border=false&include_all_commits=true&count_private=true)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=bluffblue&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=bluffblue&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact)
 
-###
+### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
 
-<h3 align="left">🔥   My Stats :</h3>
+---
+[![](https://visitcount.itsvg.in/api?id=bluffblue&icon=0&color=13)](https://visitcount.itsvg.in)
 
-###
-
-<div align="center">
-  <img src="https://streak-stats.demolab.com?user=bluffblue&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
-</div>
-
-###
-
-<div align="center">
-  <img src="https://visitor-badge.laobi.icu/badge?page_id=bluffblue.bluffblue&"  />
-</div>
-
-###
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
